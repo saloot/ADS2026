@@ -6,7 +6,7 @@ show_sidebar: false
 ---
 
 # About This Course
-<img src="/ads2026-fall/assets/images/datasciencecloud.png" style="border-radius:50%;" height="80" width="auto">
+<img src="/ADS2026/assets/images/datasciencecloud.png" style="border-radius:50%;" height="80" width="auto">
 
 
 In this course, our aim is to get STARTED on using data science in practice, either for academic projects or problems in the industry which we might face later on in our careers. 
