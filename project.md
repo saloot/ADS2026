@@ -10,64 +10,25 @@ For the course's final project, you have two options
 1. Select a paper and reproduce their results
 2. Work on a problem you like
 
-We also have a 15 bonus points on the final project's grade. Find out more at the bottom of this page.
+
 
 Important Notes:
-* 20% of the project grade is for the final presentation.
-* The projects should be **done individually**.
-* Please finalize your choice by **30 Mehr 1401**.
+* 35% of the project grade is for the final presentation.
+* The projects must be **done in groups**.
+* Please finalize your choice by **25 Esfand 1404**.
 
-## Working on a Problem of Your Own
+## Project Topic
+The project must be about a real-world problem and involve a real dataset.
 If you have a particular problem/dataset in mind, please [send us an email](mailto:saloot@gmail.com)  **with your proposal**. Once it is approved, you can start ahead and work on the project.
 
-
-## Reproducing the Result of a Paper
-For the first option, you can select a paper and then reproduce their results. Please go find 3 candidate papers and share them with us and we finalize one together.
-* If you could not find a proper paper, we will provide a list of suggested options and you can select from them in the second half of Mehr.
-
-### List of suggested papers
-
-| Type  | Goal  | Paper Title | Link |
-|------|------|-----|-----|
-| Classification  | Loan Approval Prediction | An Approach for Prediction of Loan Approval using Machine Learning Algorithm | [Link](https://ieeexplore.ieee.org/document/9155614) |
-| Classification  | Credit Card Fraud Detection | Real-time Credit Card Fraud Detection Using Machine Learning | [Link](https://ieeexplore.ieee.org/document/8776942) |
-| Classification  | Cancer Type Classification | A stacking ensemble deep learning approach to cancer type classification based on TCGA data | [Link](https://www.nature.com/articles/s41598-021-95128-x#data-availability) |
-| Classification  | Crash Severity Prediction | Utilizing Machine Learning Models to Predict the
-Car Crash Injury Severity among Elderly Drivers | [Link](https://www.researchgate.net/profile/Rabia-Al-Mamlook/publication/343390896_Utilizing_Machine_Learning_Models_to_Predict_the_Car_Crash_Injury_Severity_for_Elderly_Drivers/links/6209c75d634ff774f4cb9783/Utilizing-Machine-Learning-Models-to-Predict-the-Car-Crash-Injury-Severity-for-Elderly-Drivers.pdf) |
-| Classification  | Modeling the Spread of COVID-19 Infection | Modeling the Spread of COVID-19 Infection Using a Multilayer Perceptron | [Link](https://www.hindawi.com/journals/cmmm/2020/5714714/) |
-| Classification  | Civil War Prediction | Comparing random forest with logistic regression for predicting class-imbalanced civil war onset data. | [Link](https://www.jstor.org/stable/pdf/24573207.pdf?casa_token=fO7cvFxAYfMAAAAA:MJR3svDkbdEg_HsmVqZj0SwzzgqOEE3iUT1ZQLV_IG5PJR0tcBVD2s65xzURR4_-LMiaRap3erAb2QxTwycS74KpKmk-UI2bA9w9oQKk06fJoZaQyEY) |
-| Classification  | Cardiac Arrhythmia Classification | Cardiac Arrhythmia Classification by Multi-Layer Perceptron and Convolution Neural Networks | [Link](https://www.mdpi.com/2306-5354/5/2/35) |
-| Regression | Item Value Prediction | Predicting the present with Google Trends | [Link](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.221.2435&rep=rep1&type=pdf) |
-| Regression | COVID-19 Mortality Prediction | Association between weather data and COVID-19 pandemic predicting mortality rate: Machine learning approaches | [Link](https://www.sciencedirect.com/science/article/pii/S0960077920305336) |
-| Regression | Age and Life Expectancy Prediction | Age and life expectancy clocks based on machine learning analysis of mouse frailty | [Link](https://www.nature.com/articles/s41467-020-18446-0.pdf) |
-| Regression | Weather Forecasting | WeatherBench: A benchmark dataset for data-driven weather forecasting | [Link](https://arxiv.org/pdf/2002.00469v3.pdf) |
-| Regression | Diabetes Preidction | Tesco Grocery 1.0, a large-scale dataset of grocery purchases in Londo | [Link](https://www.nature.com/articles/s41597-020-0397-7) |
-| Image Analysis  | Unsupervised Learning of Visual Features | Deep Clustering for Unsupervised Learning of Visual Features | [Link](https://openaccess.thecvf.com/content_ECCV_2018/papers/Mathilde_Caron_Deep_Clustering_for_ECCV_2018_paper.pdf) |
-| Image Analysis  | Efficient CNN for Mobile Vision Applications | MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications | [Link](https://arxiv.org/pdf/1704.04861v1.pdf) |
-| Image Analysis  | Image Captioning | Image Captioning with Deep Bidirectional LSTMs | [Link](https://dl.acm.org/doi/pdf/10.1145/2964284.2964299?casa_token=OFrLjyhBuRAAAAAA:TWXvtdilCVpz0cUqBo0m9ca-RD172VRLztRW4JTlgdIgX-cAWuyPOayGqmROPxJDNqP7wP1q7IWN) |
-| Video Analysis  | Movie Classification | Movie Genre Classification withConvolutional Neural Networks | [Link](https://www.researchgate.net/profile/Jonatas-Wehrmann/publication/309773260_Movie_genre_classification_with_Convolutional_Neural_Networks/links/5ad75918a6fdcc293583672f/Movie-genre-classification-with-Convolutional-Neural-Networks.pdf) |
-| Natural Language Processing  | Fake News Detection | Fake News Detection Using Machine Learning Ensemble Methods | [Link](https://www.hindawi.com/journals/complexity/2020/8885861/#data-availability) |
-| Natural Language Processing  | Sentiment Analysis | Unfair Reviews Detection on Amazon Reviews using Sentiment Analysis with Supervised Learning Techniques | [Link](https://www.researchgate.net/profile/Elshrif-Elmurngi/publication/325736087_Unfair_reviews_detection_on_Amazon_reviews_using_sentiment_analysis_with_supervised_learning_techniques/links/5b33f0714585150d23dbdaa0/Unfair-reviews-detection-on-Amazon-reviews-using-sentiment-analysis-with-supervised-learning-techniques.pdf) |
-| Natural Language Processing  | Machine Translation | Unsupervised Neural Machine Translation with Weight Sharing | [Link](https://arxiv.org/pdf/1804.09057.pdf) |
-| Unsupervised Learning | Materials Classification | Unsupervised Machine Learning via Transfer Learning and K-means Clustering to Classify Materials Image Data | [Link](https://paperswithcode.com/paper/unsupervised-machine-learning-via-transfer) |
-| Unsupervised Learning | Fraud Detetion | Combining unsupervised and supervised learning in credit card fraud detection | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020025519304451) |
+If you do not have a dataset in mind, we have several datasets available that you can choose from.
 
 
 ## Bonus Points
 You can also enter a competetion on Kaggle (which will be introduced later on).
 
 Here's how the points are allocated:
-* 2 points: Each indivdiual with a successful entry
-* Points on scoring compared to class-mates:
-    * 5 Points: best result among class mates
-    * 2 Points: second-best result among class mates
-    * 1 Points: third-best result among class mates
-* Points on scoring compared to other contestants:
-    * 8 Points: result scored among top 100 contestants
-    * 5 Points: result scored among top 300 contestants
-    * 3 Points: result scored among top 500 contestants
-    * 1 Points: result scored among top 1000 contestants
-
+* TBA
 
 <h1 id="presentation"> Project's Presentation </h1>
 Part of the final project is presenting your work in the class. 
@@ -76,10 +37,10 @@ Part of the final project is presenting your work in the class.
     * Therefore, handwritten notes or photos of handwritten slides do **not** qualify ;) 
 
 ## Grading
-As mentioned above, from the 100 points for the final project, 20 points is dedicated to the final presentation, broken down as follows:
-*  10 from the teaching staff
-*  7 from other classmates: we will conduct a poll at the end of each presentation and get feedback from your classmates.
-*  3 bonus points: participating in grading other classmate's presentation and giving them feedback
+As mentioned above, from the 100 points for the final project, 35 points is dedicated to the final presentation, broken down as follows:
+*  20 from the teaching staff
+*  10 from other classmates: we will conduct a poll at the end of each presentation and get feedback from your classmates.
+*  5 points: participating in grading other classmate's presentation and giving them feedback
 
 
 The criteria for grading the presentations are as follows:

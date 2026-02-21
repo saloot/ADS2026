@@ -1,12 +1,12 @@
 ---
 title: Applied Data Science
-subtitle: Teias, Khatam University, Fall 2025
+subtitle: Sharif University of Technology, Spring 2026
 layout: page 
 show_sidebar: false
 ---
 
 # About This Course
-<img src="/ads2025-fall/assets/images/datasciencecloud.png" style="border-radius:50%;" height="80" width="auto">
+<img src="/ads2026-fall/assets/images/datasciencecloud.png" style="border-radius:50%;" height="80" width="auto">
 
 
 In this course, our aim is to get STARTED on using data science in practice, either for academic projects or problems in the industry which we might face later on in our careers. 
@@ -55,38 +55,24 @@ There is no required textbook for this course. But the students are expected to 
      * Upto 4% points for a classwide challenge on a common dataset
 
 # Logistics
-* The course is divided into a lecture and a lab session. 
+* The course is divided into two lecture session. Lab sessions are available online.
 * We are going to use **Python** for the hands on lab sessions. But homeworks/projects can be handed as a pre-computed Jupyter notebooks.
-* Communications are done via MS Teams chat rooms.
+* Communications are done via Telegram and Sharif CW.
 
 
 
 # Teaching Staff
 
 ### Lecturer
-<img src="/ads2025-fall/assets/images/Hesam2.jpg" style="border-radius:50%;height:160px;" width="auto">
+<img src="/ads2026-fall/assets/images/Hesam2.jpg" style="border-radius:50%;height:160px;" width="auto">
 
 [Amir Hesam Salavati](http://saloot.negsam.ir/)
 
 
 ### Teaching Assistants
-<img src="/ads2025-fall/assets/images/Amin-Rafiei.jpg" style="border-radius:50%;height:160px;" width="auto">
-
-[Amin Rafiei](https://www.linkedin.com/in/rafiei-amin/)
-
-<img src="/ads2025-fall/assets/images/peyman-naseri.jpg" style="border-radius:50%;height:160px;" width="auto">
-
-[Peyman Naseri](https://www.linkedin.com/in/peyman886/)
-
-<img src="/ads2025-fall/assets/images/hossein-kargar.jpg" style="border-radius:50%;height:160px;" width="auto">
-
-[Hossein Kargar](https://www.linkedin.com/in/hossein-kargar-1142371b5/)
-
+TBA
 
 
 
 ### Contact
 [Amir Hesam Salavati](mailto:saloot@gmail.com) <br>
-[Amin Rafiei](mailto:rafiei.amin.ir@gmail.com)
-[Peyman Naseri](mailto:@peyman.75.naserigmail.com)
-[Hossein Kargar](mailto:hkargar17@gmail.com)
