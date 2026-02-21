@@ -64,7 +64,7 @@ There is no required textbook for this course. But the students are expected to 
 # Teaching Staff
 
 ### Lecturer
-<img src="/ads2026-fall/assets/images/Hesam2.jpg" style="border-radius:50%;height:160px;" width="auto">
+<img src="/ADS2026/assets/images/Hesam2.jpg" style="border-radius:50%;height:160px;" width="auto">
 
 [Amir Hesam Salavati](http://saloot.negsam.ir/)
 
