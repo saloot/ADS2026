@@ -25,7 +25,7 @@ Here's the schedule for the course.
 | 6 | 18 Farvardin | 	[Deep Learning](https://docs.google.com/presentation/d/1hDuhWNMlqC1WZSBDFjWyt7gEdV230OD1AgT6BF0KM18/edit?usp=sharing) | [Deep Learning Notebook](https://colab.research.google.com/drive/1KQAhxy2oVEvKzyyB7JqbGCKD7x-yso9B?usp=sharing) | [Recording](https://www.aparat.com/v/o42c0a9?playlist=1569063)
 | 7 | 23 Farvardin | 	[Deep Learning Application: Image Classification]() | [Convolutional Neural Networks Notebook](https://colab.research.google.com/drive/17j_1eA9_hPPsDvtLdCqXXcCDBOm-tLWb?usp=sharing) | [Recording](https://www.aparat.com/v/y790tt7?playlist=1569063)
 | 8 | 25 Farvardin | Project Session | -  | 404 :) |
-| 6 | 30 Farvardin | 	[Generative AI]() | [GenAI Notebook](https://a4re.ir/lab12) | - |
+| 6 | 30 Farvardin | 	[Generative AI](https://docs.google.com/presentation/d/1n7kNwQ6BO0tJXP6Oa1LXY0wXJ4nBvYkqFoAu4OSpzbI/edit?usp=sharingss) | [GenAI Notebook](https://a4re.ir/lab12) | - |
 | 7 | 1 Ordibehesht | [Model Explainability and Imbalanced Data Problem]() | [Explainable AI and Imbalanced Data Problem](https://colab.research.google.com/drive/1s0m2oZEmJpLlzi2z2Ifl7KzwJhH6TAGQ?usp=sharing) | [Recording](https://www.aparat.com/v/a871392?playlist=1569063)
 | 9 | 6 Ordibehesht | [RAGs]( | RAG Notebook(https://colab.research.google.com/drive/1q_6Ng4bgCU7coGoK5zT00OxKu_dTDEyO?usp=sharing) | Recording
 | 10 | 8 Ordibehesht | [RAG]) | RAG Notebook(https://colab.research.google.com/drive/1TCHAcYSeL3SAnpTyhhIArHLhxaybleOu?usp=sharing) | Recording
