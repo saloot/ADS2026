@@ -27,11 +27,9 @@ Here's the schedule for the course.
 | 8 | 25 Farvardin | Project Session | -  | 404 :) |
 | 6 | 30 Farvardin | 	[Generative AI](https://docs.google.com/presentation/d/16xXFptQAZKPtzKQbGywfY9GJxxpMKmchZLB49G_eh48/edit?usp=sharing) | [GenAI Notebook](https://a4re.ir/lab12) | - |
 | 7 | 1 Ordibehesht | [Model Explainability and Imbalanced Data Problem]() | [Explainable AI and Imbalanced Data Problem](https://colab.research.google.com/drive/1s0m2oZEmJpLlzi2z2Ifl7KzwJhH6TAGQ?usp=sharing) | [Recording](https://www.aparat.com/v/a871392?playlist=1569063)
-| 9 | 6 Ordibehesht | [RAGs]( | RAG Notebook(https://colab.research.google.com/drive/1q_6Ng4bgCU7coGoK5zT00OxKu_dTDEyO?usp=sharing) | Recording
-| 10 | 8 Ordibehesht | [RAG]) | RAG Notebook(https://colab.research.google.com/drive/1TCHAcYSeL3SAnpTyhhIArHLhxaybleOu?usp=sharing) | Recording
+| 9 | 6 Ordibehesht | [RAGs](https://docs.google.com/presentation/d/1VibSlxheZKe9V31CJ0Vk3uXOQRFmY-tR3dhvejqmyvw/edit?usp=sharing) | [RAG Notebook](https://colab.research.google.com/drive/1q_6Ng4bgCU7coGoK5zT00OxKu_dTDEyO?usp=sharing) | Recording
 | 8 | 13 Ordibehesht | Project Session | -  | 404 :) |
-| 11 | 15 Ordibehesht | [Agents]() | [Agents Notebook](https://colab.research.google.com/drive/1TCHAcYSeL3SAnpTyhhIArHLhxaybleOu?usp=sharing) | - |
-| 12 | 17 Ordibehesht | [AI Applications](https://docs.google.com/presentation/d/1JtVuv71_vr5_lhPbL04WIkbLdhtQz7uh3APog4eBjIA/edit?usp=sharing)  | - |
+| 12 | 17 Ordibehesht | [AI Applications](https://docs.google.com/presentation/d/1No3PtCbQ6Az9arjhvfbA4Lqbo6lwI0W7ojRlzd5M7iQ/edit?usp=sharing)  | - |
 | 13 | 22 Ordibehesht | Guest Speakers from Inudstry | - |
 | 14 | 24 Ordibehesht | [Practical Stuff](https://docs.google.com/presentation/d/1bIEcki-DdrbuBdt7A1FFyVm9JHacXAwJ8IaQfyb5OtU/edit?usp=sharing) | [Practical Stuff Notebook](https://colab.research.google.com/drive/1oYkbhYdiZBCE3sb5JbhNHCBjZN_wn_Hi) | [Recording](https://www.aparat.com/v/g04oe5m?playlist=1569063)
 | 15 | 29 Ordibehesht | Project Session | - | 404 :) |
